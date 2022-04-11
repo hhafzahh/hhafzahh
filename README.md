@@ -1,16 +1,35 @@
-### Hi there 👋
+## It's Hafsah  here 👋
+I am a software developer who is able to work with front-end and back-end websites and mobile applications. I also do work like working with machine learning using python.
 
-<!--
-**hhafzahh/hhafzahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things that I execute in free time ⚡ - 
+  - In mean time, I create informative videos using Adobe Premiere Pro & Canva for religious activities🌱
+  - Coding using different type of frameworks & thinking of ways to improve current project code⭐️
+  - Love to explore and adventure through technology 
+  - Currently learning Quranic Arabic & attending driving lessons!
+  - Always Willing to help ✋ 
 
-Here are some ideas to get you started:
+##  Projects I have worked on..
+1. smartDoorbell 
+    - created a camera surveillance doorbell solution for ITAD module in TP with Amazon Web Services (AWS).
+    - more information are inside the repository readMe file
+2. sgHotelly
+    - created a full stack web application with MEAN stack for FWEB module in TP
+    - A website to allow booking of hotels and payment using Stripe integration..
+3. sgEBuy
+    - An ecommerce web application using angular & using ASP.NET core retail solution
+4. TodoBuddy ( Hybrid - done for both  IOS & android application) 
+    - An application to store to-do tasks with dateline, timer, alarm setter,low-fi/calm music & theme-changer
+    - 1 Java Application using Android Studio, 1 Ionic Application using Angular 
+    - The backend used for these are Google Firebase & Google Firestore.
+5.  Mobile Price Range Prediction 
+    - Machine Learning Algorithms using Python 3 to predict price ranges of mobile phone 
+    - a classification problem using supervised learning.
+6.
+## In Future I would like to...
+- Learn Docker & Kubernetes
+- Create more meaning applications 
+- create a Quranic Mobile Application (need more experience first - so might take time!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 
