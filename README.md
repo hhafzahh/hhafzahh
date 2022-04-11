@@ -11,22 +11,31 @@ I am a software developer who is able to work with front-end and back-end websit
   - Always Willing to help ✋ 
 
 ##  Projects I have worked on..
-1. smartDoorbell 
+1. smartDoorbell 🔔
     - created a camera surveillance doorbell solution for ITAD module in TP with Amazon Web Services (AWS).
     - more information are inside the repository readMe file
-2. sgHotelly
+    
+2. sgHotelly 🏨
     - created a full stack web application with MEAN stack for FWEB module in TP
     - A website to allow booking of hotels and payment using Stripe integration..
-3. sgEBuy
+    
+3. sgEBuy🛒
     - An ecommerce web application using angular & using ASP.NET core retail solution
-4. TodoBuddy ( Hybrid - done for both  IOS & android application) 
+    
+4. TodoBuddy ( Hybrid - done for both  IOS & android application) 📃
     - An application to store to-do tasks with dateline, timer, alarm setter,low-fi/calm music & theme-changer
     - 1 Java Application using Android Studio, 1 Ionic Application using Angular 
     - The backend used for these are Google Firebase & Google Firestore.
-5.  Mobile Price Range Prediction 
+    
+5.  Mobile Price Range Prediction 🔮
     - Machine Learning Algorithms using Python 3 to predict price ranges of mobile phone 
     - a classification problem using supervised learning.
-6.
+    
+6.   DevopS 
+     - a user manamgement system using eclipse IDE and Jenkins 
+     - testing using Junit & Selenium 
+     - more information on advanced features are inside the repository readMe file
+     
 ## In Future I would like to...
 - Learn Docker & Kubernetes
 - Create more meaning applications 
