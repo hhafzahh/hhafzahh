@@ -1,4 +1,5 @@
-## It's Hafsah  here 👋
+## Hello there!👋
+I am hafsah here, currently studying Information Technology as my diploma in Temasek Polytechnic
 I am a software developer who is able to work with front-end and back-end websites and mobile applications. I also do work like working with machine learning using python.
 
 ## Things that I execute in free time ⚡ - 
