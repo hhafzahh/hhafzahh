@@ -37,6 +37,7 @@ I am a software developer who is able to work with front-end and back-end websit
      - more information on advanced features are inside the repository readMe file
      
 ## In Future I would like to...
+- Learn React
 - Learn Docker & Kubernetes
 - Create more meaning applications 
 - create a Quranic Mobile Application (need more experience first - so might take time!)
