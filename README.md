@@ -33,6 +33,7 @@ I am a software developer who is able to work with front-end and back-end websit
     
 6.   DevopS 
      - a user manamgement system using eclipse IDE and Jenkins 
+     - A maven web project using JAVA
      - testing using Junit & Selenium 
      - more information on advanced features are inside the repository readMe file
      
