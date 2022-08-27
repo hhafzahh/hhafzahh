@@ -7,7 +7,6 @@ I am a software developer who is able to work with front-end and back-end websit
   - In mean time, I create informative videos using Adobe Premiere Pro & Canva for religious activities🌱
   - Coding using different type of frameworks & thinking of ways to improve current project code⭐️
   - Love to explore and adventure through technology 
-  - Currently learning Quranic Arabic & attending driving lessons!
   - Always Willing to help ✋ 
 
 ##  Projects I have worked on..
@@ -40,8 +39,8 @@ I am a software developer who is able to work with front-end and back-end websit
 ## In Future I would like to...
 - Learn React
 - Learn Docker & Kubernetes
-- Create more meaning applications 
-- create a Quranic Mobile Application (need more experience first - so might take time!)
+- Create more meaningful applications 
+- Create a Quranic Mobile Application
 
 
 
