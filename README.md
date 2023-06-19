@@ -1,9 +1,7 @@
 ## About me 
-I am hafsah here, currently studying Information Technology as my diploma in Temasek Polytechnic.
+I am a software developer and a graduate from Temasek Polytechnic, with the Diploma in Information Technology.
 
-I am a software developer who is able to work with front-end and back-end websites and mobile applications. I also do work like working with machine learning using python.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhafzahh&show_icons=true&theme=github_dark&hide_border=true)
+I love to explore technology and learn from professionals and impact others with the skills I have. I have acquired skills in front-end, back-end, full-stack web/mobile applications, AWS,DevOps and Machine Learning.
 
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hhafzahh&theme=github_dark&layout=compact&hide_border=true)
 
