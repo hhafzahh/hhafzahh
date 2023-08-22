@@ -30,9 +30,11 @@ I love to explore technology and learn from professionals and impact others with
   * Machine Learning Algorithms using Python 3 to predict price ranges of mobile phone 
   * a classification problem using supervised learning.
  
-6. [Automation with Devops](https://github.com/hhafzahh/MP_2022) 
+6. [Automation with Devops](https://github.com/hhafzahh/Simulation)
+  * Final Year Major Project - based on SIP.
   * A automated ticketing management web application which stores,cleans data and displays data in a visualization. 
   * Technologies used: MEAN Stack,Selenium,Python,Git,Jenkins,Docker,Tableau
+  * more information are inside the repository readMe file
 
 
 ## In Future I would like to...
