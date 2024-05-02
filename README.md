@@ -1,5 +1,5 @@
 ## About me 
-I am a software developer and a graduate from Temasek Polytechnic, with the Diploma in Information Technology.
+I am a full-time SUTD Computer Science Undergraduate in Singapore.
 
 I love to explore technology and learn from professionals and impact others with the skills I have. I have acquired skills in front-end, back-end, full-stack web/mobile applications, AWS,DevOps and Machine Learning.
 
